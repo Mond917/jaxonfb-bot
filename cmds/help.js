@@ -20,7 +20,7 @@ module.exports = {
 
                 const allHelpMessage = `
 ╔════════════╗
-     🤖 All Commands 🤖
+     🤖 JAXON VAUGHN BOT 🤖
 ╚════════════╝
 ${allCommands}
 
@@ -59,7 +59,7 @@ Version: ${command.version}`;
 
         const helpMessage = `
 ╔════════════╗
-     🤖 Bot Commands 🤖
+     🤖 Jax Vaughn Bot 🤖
 ╚════════════╝
 Here are some commands:  
 ${commandArray}
