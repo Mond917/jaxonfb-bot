@@ -38,7 +38,7 @@ Use 'help [command_name]' for details.`;
 
             const commandHelpMessage = `
 ╔════════════╗
-     🤖 Command Info 🤖
+     🤖 ALEXANDER GREY AI 🤖
 ╚════════════╝
 Name: ${command.name}
 Usage: ${command.usage}
